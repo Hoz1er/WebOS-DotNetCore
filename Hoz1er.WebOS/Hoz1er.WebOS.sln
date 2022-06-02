@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoz1er.WebOS.Model", "Hoz1er.WebOS.Model\Hoz1er.WebOS.Model.csproj", "{3DAAE108-A650-41E0-A413-1FAFFC24D913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoz1er.WebOS.API", "Hoz1er.WebOS.API\Hoz1er.WebOS.API.csproj", "{60AD3F39-90A3-44E7-A100-71E1FFCBC51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DAAE108-A650-41E0-A413-1FAFFC24D913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DAAE108-A650-41E0-A413-1FAFFC24D913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DAAE108-A650-41E0-A413-1FAFFC24D913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DAAE108-A650-41E0-A413-1FAFFC24D913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AD3F39-90A3-44E7-A100-71E1FFCBC51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AD3F39-90A3-44E7-A100-71E1FFCBC51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AD3F39-90A3-44E7-A100-71E1FFCBC51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AD3F39-90A3-44E7-A100-71E1FFCBC51B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E29763-1212-40C9-AD41-41924479F6D5}
+	EndGlobalSection
+EndGlobal
